@@ -1,5 +1,5 @@
-<h3 align="center">Research Paper Proposal</h3>
-<h1 align="center">Benefits of Big Data Curation</h1>
+<h3 align="center">Research Paper </h3>
+<h1 align="center">Big Data Curation: Necessity and Benefits</h1>
  
 Gartner defines Big Data as “high volume, high velocity, and high variety information assets that require new forms of processing to enable enhanced decision making, insight discovery and process optimization.” Considering the amount of data being generated rapidly a significant portion of Big Data’s success will depend upon data quality. Data quality can highly impact the analysis and important decision-making problems. Increased number of new platforms for data creation, as well as the growing availability of open data on the web, along with an increase in the number of data sources within organizations has resulted in an unprecedented volume of data to be managed. As a result, we need to use tools which will consider the factors of big data and will improve decision making and reduce operational inefficiencies. 
 
@@ -34,7 +34,10 @@ Curating data allows people to collect and control the data so that they can mak
 
 <h2> Common steps in Data Curation </h2>
 
-![lifecycle](lifecycle.png)
+<p align="center">
+  <img src="lifecycle.png">
+</p>
+
 <h5 align='center'> Figure 2. The DCC Curation Lifecycle Model </h5>
 
 In Fig 2, the Data Curation lifecycle represents all the stages of data throughout its life from data generation to its distribution and reuse.[3]
@@ -55,7 +58,7 @@ Data curation will be no exception, as Artificial Intelligence has an impact on 
 Data curation is more concerned with metadata management and maintenance than with the database itself. It encompasses a wide range of procedures and activities associated with the organizing and aggregation of data gathered from numerous sources. It is a procedure that is iterative and capable of adding value to data. Considering all these points we can confidently say that data curation is here to stay.
 
 
-<h2> Sources </h2>
+<h2> References </h2>
 
 1. Freitas, A., Curry, E. (2016). Big Data Curation. In: Cavanillas, J., Curry, E., Wahlster, W. (eds) New Horizons for a Data-Driven Economy. Springer, Cham. https://doi.org/10.1007/978-3-319-21569-3_6
 
